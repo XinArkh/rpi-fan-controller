@@ -4,6 +4,8 @@ Raspberry Pi Fan Controller——an electronic module for Raspberry Pi fan contr
 
 ## RPi 3B+ Pinout
 
+Refer to [this article](https://www.etechnophiles.com/raspberry-pi-3-b-pinout-with-gpio-functions-schematic-and-specs-in-detail/).
+
 ![Raspberry Pi 3 B+ Pinout](media/ngcb40.webp)
 
 The GPIO 14 and above 5V and GND pins are chosen to be controller output.
