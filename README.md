@@ -1,2 +1,3 @@
 # rpi-fan-controller
-Electronic module for Raspberry Pi fan
+An electronic module for Raspberry Pi fan. Tested on Raspberry Pi 3B+, other Raspberry versions should be exchangeable.
+
