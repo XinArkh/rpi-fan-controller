@@ -39,3 +39,13 @@ vim /etc/rc.local
 /root/fan_ctrl.sh 2>>/root/fan_ctrl.log
 ```
 
+## Resources
+
+- [散热片安装与风扇接线方法/ 和自动温控方法](http://www.raspigeek.com/index.php?c=read&id=126&page=1)
+- [树莓派硬件编程——（一）用RPi.GPIO库输出信号](https://blog.csdn.net/u014663232/article/details/105609099)
+- [Linux GPIO口的控制（树莓派4B实现）（文件方式）](https://blog.csdn.net/zhou865612640/article/details/106465704)
+- [从树莓派的wiringPi库分析Linux对GPIO的控制原理](https://xuanxuanblingbling.github.io/iot/2020/07/01/gpio/)
+- [树莓派OpenWrt下的散热风扇控制脚本](https://www.gooneyryan.com/archives/913)
+- [Linux系统如何设置开机自动运行脚本？ ](https://www.cnblogs.com/yychuyu/p/13095732.html)
+- [OpenWrt crontab 不支持 @ 字符扩展](https://blog.csdn.net/Hsin96/article/details/124326794?spm=1001.2014.3001.5501)
+
