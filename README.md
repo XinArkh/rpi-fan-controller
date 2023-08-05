@@ -38,7 +38,8 @@ chmod +x /etc/rc.local
 vim /etc/rc.local
 
 # edit in rc.local, insert before the last line (i.e. exit 0)
-/root/fan_ctrl.sh 2>>/root/fan_ctrl.log
+# need to add & at the end, otherwise the script will keep running in foreground and block reboot command
+/root/fan_ctrl.sh 2>>/root/fan_ctrl.log &
 ```
 
 ## Resources
